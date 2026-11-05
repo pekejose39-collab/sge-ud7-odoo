@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" width="320" height="120">
+  <rect width="320" height="120" rx="16" fill="#3b2418"/>
+  <g transform="translate(60 60)">
+    <ellipse rx="30" ry="40" fill="#c8894a" transform="rotate(-25)"/>
+    <path d="M-4 -38 C 12 -12, -12 12, 4 38" stroke="#3b2418" stroke-width="5" fill="none" stroke-linecap="round" transform="rotate(-25)"/>
+  </g>
+  <text x="112" y="62" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#f5e6d3">Aroma Sur</text>
+  <text x="114" y="88" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#c8894a">TOSTADERO DE CAFÉ</text>
+</svg>

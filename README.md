@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| **Alumno/a** | _Tu nombre y apellidos_ |
+| **Alumno/a** | Jose Soto Mantegazza |
 | **Módulo** | Sistemas de Gestión Empresarial (SGE) |
 | **Unidad** | UD7 – Odoo |
-| **Empresa ficticia** | Tostadero Aroma Sur S.L. |
+| **Empresa** | Tostadero Aroma Sur S.L. |
 | **Vídeo de presentación** | [Ver vídeo](https://ENLACE-AL-VIDEO) |
 
 ---

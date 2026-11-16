@@ -1,4 +1,4 @@
-# SGE · UD7 · Implantación de Odoo
+# SGE · UD7 · Implementación de Odoo
 
 ![Logo](empresa/logo.svg)
 

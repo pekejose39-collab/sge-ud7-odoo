@@ -8,7 +8,7 @@
 | **Módulo** | Sistemas de Gestión Empresarial (SGE) |
 | **Unidad** | UD7 – Odoo |
 | **Empresa ** | Tostadero Aroma Sur S.L. |
-| **Vídeo de presentación** | [Ver vídeo](https://ENLACE-AL-VIDEO) |
+| **Vídeo de presentación** | [Ver vídeo](https://https://youtu.be/x9TYwBKkd2M) |
 
 ---
 
